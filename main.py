@@ -25,7 +25,7 @@ st.line_chart(data)
 
 col1,col2=st.columns(2)
 with col1:
-    st.header('Mounatins')
+    st.header('Mountains')
     st.image("https://c4.wallpaperflare.com/wallpaper/658/800/994/simple-simple-background-minimalism-black-background-wallpaper-preview.jpg")
 
 with col2:
